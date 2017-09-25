@@ -7,7 +7,7 @@ This is sample Spring Boot application
 To test the sample application execute the following commands:
 
 mvn package
-java -jar target/us.fetchr.sample-0.0.1-SNAPSHOT.war
+mvn spring-boot:run
 
 to hit the localhost after:
 http://localhost:8080
